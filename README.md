@@ -49,7 +49,7 @@ Fornecer uma visão clara e interativa do desempenho de vendas de automóveis, f
 
 ## 📌 Como Utilizar  
 
-1. Baixe o arquivo `.pbix` (caso disponível)  
+1. Baixe o arquivo `.pbix`
 2. Abra no **Power BI Desktop**  
 3. Interaja com os filtros e gráficos para explorar os insights  
 
